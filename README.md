@@ -4,7 +4,9 @@ Laravel verison 10.0
 
 PHP v: 8.2
 
-Clone Project from git
+Clone Project from git https://github.com/ndhaked/miniwebshop.git
+
+git clone https://github.com/ndhaked/miniwebshop.git
 
 STEP 1: Run Command: composer update
 
